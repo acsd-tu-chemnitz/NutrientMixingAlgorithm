@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <Water_Source>FishDrain</Water_Source>
+    <Use_Source>1</Use_Source>
+    <Max_Value>800</Max_Value>
+    <Min_Value>0</Min_Value>
+    <Current_Value>2000</Current_Value>
+    <MaxTank_Value>4000</MaxTank_Value>
+    <Source_Weight>-1</Source_Weight>
+  </row>
+  <row>
+    <Water_Source>Rain</Water_Source>
+    <Use_Source>1</Use_Source>
+    <Max_Value>800</Max_Value>
+    <Min_Value>0</Min_Value>
+    <Current_Value>3000</Current_Value>
+    <MaxTank_Value>4000</MaxTank_Value>
+    <Source_Weight>1</Source_Weight>
+  </row>
+  <row>
+    <Water_Source>Tap</Water_Source>
+    <Use_Source>1</Use_Source>
+    <Max_Value>800</Max_Value>
+    <Min_Value>0</Min_Value>
+    <Current_Value></Current_Value>
+    <MaxTank_Value></MaxTank_Value>
+    <Source_Weight>1</Source_Weight>
+  </row>
+  <row>
+    <Water_Source>PlantDrain</Water_Source>
+    <Use_Source>1</Use_Source>
+    <Max_Value>800</Max_Value>
+    <Min_Value>0</Min_Value>
+    <Current_Value>2000</Current_Value>
+    <MaxTank_Value>4000</MaxTank_Value>
+    <Source_Weight>-2</Source_Weight>
+  </row>
+</root>

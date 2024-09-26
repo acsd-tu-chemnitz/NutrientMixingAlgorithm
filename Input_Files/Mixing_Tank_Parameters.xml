@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <Current_Value>10</Current_Value>
+    <Target_Value></Target_Value>
+    <Max_Value>900</Max_Value>
+    <Min_Value>600</Min_Value>
+    <Max_Tank_Volume>1000</Max_Tank_Volume>
+  </row>
+</root>
